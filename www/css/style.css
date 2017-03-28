@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 30px;
+    height: 30px;
+    background: lightgrey;
+}
+
+.data {
+    text-align: center;
+    font-size: 10px;
+    color: gray;
+}
